@@ -68,7 +68,7 @@
 @media (min-width: 1024px) { 
   .main-container {
     flex-direction: row;
-    padding-left: 250px; 
+    padding-left: 150px; 
     
   }
   .main-content {
