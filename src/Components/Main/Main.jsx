@@ -7,7 +7,7 @@ const Main = () => {
          <h1 className="headline">
           <span className="headline-part">Human</span>
           <span className="headline-part-group">
-          <span className="headline-part">Stories</span>
+          <span className="headline-part">Stories</span>{" "}
           <span className="headline-part"> &amp; ideas</span>
   </span>
         </h1>
