@@ -36,8 +36,7 @@
 .headline-part-group {
   display: flex;
   flex-direction: column; 
-  gap: 10px; 
-}
+ }
 
 .headline-part{
   display: block;
@@ -103,11 +102,11 @@
 @media (min-width: 640px) { 
  .headline{
   flex-direction: column;
-  gap: 10px;
+  
  }
  .headline-part-group{
   flex-direction: row;
-  gap: 10px;
+  
  }
  .headline-part{
   display: inline;
